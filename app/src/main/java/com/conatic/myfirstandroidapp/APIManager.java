@@ -27,7 +27,7 @@ import java.util.List;
  */
 public class APIManager {
 
-    private static final String url = "http://192.168.90.245:5000/";
+    private static final String url = "https://utt-demo-api.herokuapp.com/";
 
     private static APIManager mInstance = null;
 
